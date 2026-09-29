@@ -1,0 +1,63 @@
+# Gradle
+.gradle/
+build/
+/*/build/
+/*/build/
+!gradle-wrapper.jar
+
+# Local configuration
+local.properties
+*.iml
+*.ipr
+*.iws
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Android
+*.apk
+*.ap_
+*.aab
+*.dex
+*.class
+
+# Generated
+generated/
+*.generated.*
+
+# IDE
+.idea/
+*.swp
+*.swo
+
+# Kotlin
+*.kt.bin
+
+# Room
+schemas/
+
+# Hilt
+**/build/generated/hilt/
+
+# KSP
+**/build/generated/ksp/
+
+# Compose
+**/build/generated/compose/
+
+# Test reports
+**/build/reports/
+**/build/outputs/
+
+# Coverage
+*.ec
+*.exec
+coverage/
+
+# Cache
+.gradle/
+*.log
+
+# Release
+release/

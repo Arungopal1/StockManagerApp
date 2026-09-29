@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#64B5F6</color>
+    <color name="on_primary">#00334E</color>
+    <color name="primary_container">#004D6E</color>
+    <color name="on_primary_container">#D1E9F7</color>
+    <color name="secondary">#A7C4D7</color>
+    <color name="on_secondary">#1D333E</color>
+    <color name="secondary_container">#344C57</color>
+    <color name="on_secondary_container">#C9E5F7</color>
+    <color name="tertiary">#BCAAEB</color>
+    <color name="on_tertiary">#38305E</color>
+    <color name="tertiary_container">#4F467B</color>
+    <color name="on_tertiary_container">#E3DFFD</color>
+    <color name="error">#FFB4AB</color>
+    <color name="on_error">#690005</color>
+    <color name="error_container">#93000A</color>
+    <color name="on_error_container">#FFDAD6</color>
+    <color name="surface">#1A1C1E</color>
+    <color name="on_surface">#E6E1E5</color>
+    <color name="surface_container">#232526</color>
+    <color name="surface_container_high">#2E3031</color>
+    <color name="surface_container_highest">#353739</color>
+    <color name="outline">#8F9092</color>
+    <color name="outline_variant">#444748</color>
+    <color name="shadow">#000000</color>
+    <color name="scrim">#000000</color>
+    <color name="inverse_surface">#E6E1E5</color>
+    <color name="inverse_on_surface">#2F3032</color>
+    <color name="inverse_primary">#00687A</color>
+
+    <!-- Transaction Type Colors (same for dark mode) -->
+    <color name="stock_in">#66BB6A</color>
+    <color name="stock_out">#EF5350</color>
+    <color name="stock_return">#FFB74D</color>
+    <color name="stock_adjustment">#42A5F5</color>
+    <color name="stock_transfer">#BA68C8</color>
+
+    <!-- Stock Status Colors -->
+    <color name="in_stock">#66BB6A</color>
+    <color name="low_stock">#FFB74D</color>
+    <color name="out_of_stock">#EF5350</color>
+</resources>
